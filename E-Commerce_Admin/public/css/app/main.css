@@ -1,0 +1,289 @@
+body {
+  overflow: auto;
+}
+
+a.navbar-brand {
+  background: #333333;
+  color: #fff;
+}
+.alert-choose {
+  background: #f5f5f5;
+  padding: 10px;
+  border-radius: 5px;
+  border-left: 8px solid #81b53e;
+}
+.alert-choose i {
+  vertical-align: middle;
+}
+@media (max-width: 768px) {
+  .lock-container.login .panel .panel-body, .lock-container.login.register .panel .panel-body {
+    padding: 10px 50px 20px;
+  }
+
+  .players-table {
+    display: none;
+  }
+
+  .players-block {
+    display: flex !important;
+  }
+
+  .inner-img-block {
+    width: 100% !important;
+  }
+
+  .inner-img-block-third {
+    width: 100% !important;
+  }
+
+  .timeline-block {
+    margin: 0 !important;
+  }
+
+  .alert-choose i {
+    display: none;
+  }
+
+  .navbar-primary .navbar-nav>li>a {
+    font-size: 1.2em;
+  }
+
+  .timeline-list>li.media:before {
+    display: none;
+  }
+
+  .timeline-list>li.media>.media-left .user-wrapper {
+    margin: 0 auto;
+  }
+
+  .ReactModal__Content--after-open {
+    width: 100% !important;
+  }
+
+  .timeline-list {
+    padding-left: 0px;
+  }
+
+  .slick-dots {
+    display: flex !important;
+    position: initial !important;
+    margin-top: 20px;
+  }
+
+  .maxed-input {
+    max-width: 100%;
+  }
+
+  .st-pusher {
+    padding-left: 10px !important;
+    padding-right: 10px !important;
+    margin-top: 20px !important;
+  }
+
+  .mobile-dropdown {
+    background-color: white;
+  }
+
+  .find-button {
+    padding: 10px 30px 10px 30px !important;
+    font-size: 20px !important;
+    margin-top: 10px !important;
+    font-weight: 700 !important;
+  }
+
+  .margin-5 {
+    margin-bottom: 15px !important;
+  }
+}
+@media (min-width: 768px) {
+
+  .header-bars {
+    display: none;
+  }
+
+}
+.panel .panel-body img {
+  margin-bottom: 15px;
+}
+
+.logo {
+  width: 170px;
+  margin: 4px;
+}
+
+.nav-mob {
+  display: flex;
+}
+
+.logo-link {
+  padding-left: 0px !important;
+}
+
+.header-bars i {
+  font-size: 40px;
+  position: relative;
+  top: 8px;
+  right: 20px;
+}
+
+.mobile-home {
+  margin-bottom: 20px;
+}
+
+.slick-slider {
+    margin-bottom: 100px !important;
+}
+
+.lock-container.login {
+  width: 100% !important;
+}
+
+.ReactModal__Overlay {
+  z-index: 100;
+}
+
+.timeline-block {
+  margin: 0px 10px 0px 10px;
+}
+
+.country-flag {
+  margin-left: 10px;
+  width: 40px;
+}
+
+.st-pusher.normal {
+  margin-top: 35px !important;
+}
+
+.st-pusher.home {
+  /* margin-top: 50px !important; */
+}
+
+.st-pusher.profiles {
+  margin-top: 20px !important;
+}
+
+.white-error {
+  color: white;
+  font-size: 15px;
+  font-weight: 700;
+}
+
+.authButton {
+  margin-bottom: 30px !important;
+}
+
+.padding-right {
+  padding-right: 10px;
+}
+
+.update-page-player .react-datepicker__input-container {
+  display: block !important;
+}
+
+.update-page-player .switch {
+  display: block !important;
+}
+
+.first-button-m {
+  margin-right: 15px;
+}
+
+.margin-b-bigger {
+  margin-bottom: 30px !important;
+}
+
+.abs-error {
+  position: absolute;
+}
+
+.lock-container .panel input {
+  margin-bottom: 0px !important;
+}
+
+.mar-t {
+  margin-top: 25px
+}
+
+.inner-img-block {
+  width: 50%;
+  margin: auto;
+  padding: 25px 14px 25px 14px;
+  cursor: pointer;
+}
+
+.inner-img-block.selected, .inner-img-block-third.selected {
+  background-color: white;
+  border-radius: 40px 40px 0 0;
+}
+
+.inner-img-block-third {
+  width: 84%;
+  margin: auto;
+  padding: 25px 14px 25px 14px;
+  cursor: pointer;
+}
+
+.user-info-home {
+  background-color: white;
+  margin-top: -7px;
+  border-radius: 25px;
+}
+
+.in-user-row {
+  display: flex;
+  padding: 10px 15px 20px 25px;
+}
+
+.videop-padding {
+  padding: 20px;
+}
+
+.main-style {
+  padding: 0;
+  min-height: 100%;
+}
+
+.blocks-row {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.star-li .dv-star-rating {
+  top: 10px;
+}
+
+.players-block {
+  display: none;
+}
+
+#main-nav {
+  overflow: auto;
+}
+
+.pay-pal-buttons {
+  display: flex;
+  justify-content: center;
+}
+
+.right-justify {
+  justify-content: flex-end;
+}
+
+.pay-pal-buttons .first-button-m {
+  margin-top: 0px !important;
+}
+
+.xcomponent-outlet .xcomponent-component-frame {
+  z-index: 0 !important;
+}
+
+.max-td td {
+  max-width: 200px !important;
+}
+
+.cross-times {
+  margin-right: 10px;
+  cursor: pointer;
+  align-self: center;
+}

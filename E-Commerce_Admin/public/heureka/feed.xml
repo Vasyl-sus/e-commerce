@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SHOP>
+  <SHOPITEM>
+    <ITEM_ID>LUX1</ITEM_ID>
+    <PRODUCTNAME>LUX FACTOR sérum na rast mihalníc 3ml</PRODUCTNAME>
+    <PRODUCT>LUX FACTOR sérum na rast mihalníc 3ml</PRODUCT>
+    <DESCRIPTION>Profesionálna a klinicky testovaná terapia pre urýchlenie rastu a fantastický vzhľad Vašich mihalníc! LUX - FACTOR EYELASH je senzačná vedecká inovácia v kozmetickom priemysle. Ide o veľmi bezpečnú a úplne prírodnú formulu pre podporu rastu mihalníc na našom trhu. Bez nepríjemného pálenia, podráždenia očí a bez nežiaducich vedľajších účinkov je terapia so sérom na rast mihalníc LUX - FACTOR vhodná aj pre tie najcitlivejšie oči.</DESCRIPTION>
+    <URL>http://E-commerce.com.com/sk/serum-na-rast-mihalnic</URL>
+    <IMGURL>http://E-commerce.com.com/heureka/eyelash.png</IMGURL>
+    <VIDEO_URL>https://www.youtube.com/watch?v=jpsbgnNCnxg</VIDEO_URL>
+    <PRICE_VAT>49,90</PRICE_VAT>
+    <HEUREKA_CPC>0,09</HEUREKA_CPC>
+    <MANUFACTURER>LUX FACTOR</MANUFACTURER>
+    <CATEGORYTEXT>Kozmetika a zdravie</CATEGORYTEXT>
+     <CATEGORY>
+	  <CATEGORY_ID>1759</CATEGORY_ID>
+	  <CATEGORY_NAME>Prípravky na starostlivosť o mihalnice a obočie</CATEGORY_NAME>
+	  <CATEGORY_FULLNAME>
+Heureka.sk | Kozmetika a zdravie | Kozmetika | Pleťová kozmetika | Prípravky na starostlivosť o mihalnice a obočie
+	</CATEGORY_FULLNAME>
+	</CATEGORY>
+    <EAN></EAN>
+    <PRODUCTNO>LUX1</PRODUCTNO>
+    <PARAM>
+      <PARAM_NAME>LUX FACTOR</PARAM_NAME>
+      <VAL></VAL>
+    </PARAM>
+    <DELIVERY_DATE>2</DELIVERY_DATE>
+    <DELIVERY>
+      <DELIVERY_ID>GLS</DELIVERY_ID>
+      <DELIVERY_PRICE>4,9</DELIVERY_PRICE>
+      <DELIVERY_PRICE_COD>4,9</DELIVERY_PRICE_COD>
+    </DELIVERY>
+    <ITEMGROUP_ID>Serum</ITEMGROUP_ID>
+  </SHOPITEM>
+
+ <SHOPITEM>
+    <ITEM_ID>LUX2</ITEM_ID>
+    <PRODUCTNAME>LUX FACTOR krém proti vráskam 50ML</PRODUCTNAME>
+    <PRODUCT>LUX FACTOR krém proti vráskam 50ML</PRODUCT>
+    <DESCRIPTION>Mýtus alebo pravda: jediný krém proti vráskam, ktorý naozaj funguje, s patentovanou formulou proti vráskam Lux - Factor 4D ANTI-WRINKLE
+LUX - FACTOR patentovaná formula 4D HYALURON je profesionálna klinicky testovaná terapia proti vráskam a starnutiu pleti. Je to tiež najefektívnejšia a zároveň bezpečná receptúra proti vráskam, ktorá je vhodná pre všetky typy pleti, na ktorých vidíme hlboké a výrazné vrásky a jemné linky.</DESCRIPTION>
+    <URL>http://E-commerce.com.com/sk/krem-proti-vraskam</URL>
+    <IMGURL>http://E-commerce.com.com/heureka/4dkrema.png</IMGURL>
+    <VIDEO_URL>https://www.youtube.com/watch?v=sfGZ5x7RQJg</VIDEO_URL>
+    <PRICE_VAT>39,90</PRICE_VAT>
+    <HEUREKA_CPC>0,09</HEUREKA_CPC>
+    <MANUFACTURER>LUX FACTOR</MANUFACTURER>
+    <CATEGORYTEXT>Kozmetika a zdravie</CATEGORYTEXT>
+   <CATEGORY>
+	   <CATEGORY_ID>1757</CATEGORY_ID>
+	   <CATEGORY_NAME>Prípravky na vrásky a starnúcu pleť</CATEGORY_NAME>
+	   <CATEGORY_FULLNAME>
+Heureka.sk | Kozmetika a zdravie | Kozmetika | Pleťová kozmetika | Prípravky na vrásky a starnúcu pleť
+	   </CATEGORY_FULLNAME>
+</CATEGORY>
+    <EAN></EAN>
+    <PRODUCTNO>LUX2</PRODUCTNO>
+    <PARAM>
+      <PARAM_NAME>LUX FACTOR</PARAM_NAME>
+      <VAL></VAL>
+    </PARAM>
+    <DELIVERY_DATE>2</DELIVERY_DATE>
+    <DELIVERY>
+      <DELIVERY_ID>GLS</DELIVERY_ID>
+      <DELIVERY_PRICE>4,9</DELIVERY_PRICE>
+      <DELIVERY_PRICE_COD>4,9</DELIVERY_PRICE_COD>
+    </DELIVERY>
+    <ITEMGROUP_ID>Serum</ITEMGROUP_ID>
+  </SHOPITEM>
+
+   <SHOPITEM>
+    <ITEM_ID>LUX3</ITEM_ID>
+    <PRODUCTNAME>LUX FACTOR krém na starostlivosť o tetovanie 60ml</PRODUCTNAME>
+    <PRODUCT>LUX FACTOR krém na starostlivosť o tetovanie 60ml</PRODUCT>
+    <DESCRIPTION>Nech Vaše tetovanie konečne začne žiť pomocou jemnej a výživnej starostlivosti o tetovanie
+Rozmýšľate, vyberáte, dáte si urobiť tetovanie a domov odídete s novým doplnkom – navždy. Ale proces úspešného a zdraviu neškodiaceho tetovania sa neskončí vtedy, keď odídete zo salónu.</DESCRIPTION>
+    <URL>http://E-commerce.com.com/sk/krem-na-starostlivost-o-tetovanie</URL>
+    <IMGURL>http://E-commerce.com.com/heureka/tattoo.png</IMGURL>
+    <VIDEO_URL>nie je</VIDEO_URL>
+    <PRICE_VAT>29,90</PRICE_VAT>
+    <HEUREKA_CPC>0,09</HEUREKA_CPC>
+    <MANUFACTURER>LUX FACTOR</MANUFACTURER>
+    <CATEGORYTEXT>Kozmetika a zdravie</CATEGORYTEXT>
+    <CATEGORY>
+	    <CATEGORY_ID>1821</CATEGORY_ID>
+	    <CATEGORY_NAME>Tělové krémy</CATEGORY_NAME>
+	    <CATEGORY_FULLNAME>
+Heureka.cz | Kosmetika a zdraví | Kosmetika | Tělová kosmetika | Tělové krémy
+		</CATEGORY_FULLNAME>
+	</CATEGORY>
+    <EAN></EAN>
+    <PRODUCTNO>LUX3</PRODUCTNO>
+    <PARAM>
+      <PARAM_NAME>LUX FACTOR</PARAM_NAME>
+      <VAL></VAL>
+    </PARAM>
+    <DELIVERY_DATE>2</DELIVERY_DATE>
+    <DELIVERY>
+      <DELIVERY_ID>GLS</DELIVERY_ID>
+      <DELIVERY_PRICE>4,9</DELIVERY_PRICE>
+      <DELIVERY_PRICE_COD>4,9</DELIVERY_PRICE_COD>
+    </DELIVERY>
+    <ITEMGROUP_ID>Serum</ITEMGROUP_ID>
+  </SHOPITEM>
+
+</SHOP>
