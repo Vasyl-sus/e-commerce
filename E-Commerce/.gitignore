@@ -1,0 +1,17 @@
+/.idea
+locales/
+.next/
+node_modules/
+config/environment/
+static/fonts/
+static/images/
+server-error.log
+server.log
+package.json
+package-lock.json
+public/static/images*
+public/static/fonts/
+public/static/fb*
+public/static/ig*
+.env
+.qodo
